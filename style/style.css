@@ -1,0 +1,52 @@
+/* Background pagina */
+body{
+    background: linear-gradient(45deg,rgba(255, 255, 0, 0.616),rgba(0, 0, 255, 0.555));
+}
+
+/* Immagini */
+
+.immagine_titolo{
+    text-align: center;
+    
+}
+
+
+/* Titoli */
+
+
+.titolo_articolo{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border: solid;
+    background-color: rgb(247, 247, 105);
+    border-radius:10px;
+
+}
+
+/* citazioni */
+
+.citazione_papa {
+    background-color: rgb(218, 236, 117);
+   text-align: center;
+   border-color: black;
+   border-width: 1px;
+   border-radius: 20px;
+   border-style:hidden;
+   padding: 5px;
+   margin: 20px;
+}
+
+
+
+/* Body */
+
+html{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    text-align:start;
+}
+.primo_paragrafo{
+    text-align: center;
+}
+
+
